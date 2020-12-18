@@ -1,2 +1,2 @@
-# Phone-Book
-A simple Python project using SQL 
+# ***Phone-Book***
+A simple Python project using **SQL**
